@@ -60,9 +60,9 @@ Programmer | Content Creator | Learner
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=riadmonir&show_icons=true&locale=en" alt="Abdullah Al Riad" /></p>
 
 [website]: https://technoriad.xyz
-[facebook]: https://facebook.com/itsriadmonir
+[facebook]: https://facebook.com/riadmonir
 [twitter]: https://twitter.com/riadofficials
 [youtube]: https://youtube.com/TechnoRiad
-[instagram]: https://instagram.com/mahbubdev/
+[instagram]: https://instagram.com/riadmonir.me/
 [linkedin]: https://linkedin.com/in/riadmonir
 [telegram]: https://t.me/technoriad
